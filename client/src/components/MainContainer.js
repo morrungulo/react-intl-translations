@@ -6,8 +6,13 @@ const MainContainer = () => {
   const [entries, setEntries] = useState([]);
 
   const onUpload = (data, file) => {
-    const entry = { id: Date.now(), data, file, name: file.name }
+    const entry = { id: Date.now(), data, name: file.name }
     setEntries([...entries, entry])
+  }
+
+  const handleDelete = (id) => {
+    const updatedEntries = entries.filter(entry => entry.id !== id);
+    setEntries(updatedEntries);
   }
 
   return (
@@ -24,7 +29,7 @@ const MainContainer = () => {
         {entries.length > 0 &&
           entries.map(entry => (
             <div key={entry.id}>
-              <TranslationEntry entry={entry} />
+              <TranslationEntry entry={entry} handleDelete={handleDelete} />
             </div>
           ))}
       </div>

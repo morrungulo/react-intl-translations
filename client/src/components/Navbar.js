@@ -4,7 +4,7 @@ const Navbar = () => {
       <nav className="teal darken-3 white-text">
         <div className="container">
           <div className="nav-wrapper">
-            <p className="flow-text">Translations...</p>
+            <p className="brand-logo">Translations...</p>
           </div>
         </div>
       </nav>

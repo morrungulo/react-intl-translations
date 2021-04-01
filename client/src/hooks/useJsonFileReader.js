@@ -45,7 +45,7 @@ const useJsonFileReader = (onloadhook = noop) => {
     } catch (err) {
       setError(reader)
     }
-  }, [file, onloadhook])
+  }, [file])
 
   return [{ data, error, file, loading }, setFile]
 }
