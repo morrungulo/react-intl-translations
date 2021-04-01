@@ -1,0 +1,11 @@
+{
+    "name": "Visual Studio Code container development",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "donjayamanne.githistory",
+        "burkeholland.simple-react-snippets"
+    ],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}

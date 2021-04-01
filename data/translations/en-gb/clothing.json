@@ -1,0 +1,53 @@
+{
+  "Title1": "Clothing",
+  "Title1AskTitle": "Ask yourself",
+  "Title1AskOne": "Am I well protected when I ride?",
+  "Title1AskTwo": "What if I fell off?",
+  "Title1askingOne": "Road surfaces are unforgiving and hurt.",
+  "Title1askingTwo": "Skin damage is common even in low impact incidents.",
+  "Title1askingThree": "In low visibility due to the weather or darkness others may fail to see you.",
+  "Title1askingFour": "Exposed skin will make you vulnerable to injury",
+  "Title1askingFive": "Certain animals also become more active during this time period.",
+  "Title1askingSix": "You and other drivers are more likely to be tired and less attentive..",
+
+  "Title2asking": "Consider the following",
+  "Title2askingOne": "Gloves protect you from sun, wind and cold, as well as from abrasions in the event of a crash. ",
+  "Title2askingTwo": "Jackets, pants and similar clothing protect a rider’s body from the elements.",
+  "Title2askingThree": "Clothing will minimise the severity of road crash injuries.",
+  "Title2askingFour": "Boots designed for serious motorcyclists can come up above the ankle and have built-in ankle protection and oil-resistant soles for a solid grip on the ground.",
+  "Title2askingFive": "Fluorescent colours, such as neon yellow, green, orange, or even white, will increase your chances of being seen.",
+  "Title2askingSix": "Don’t forget your passengers - are they protected too?",
+
+  "Title1Think": "Pick the best you can afford.",
+  "Title1ThinkOne": "Jackets typically include heavy padding on the elbow, spine and shoulder regions. ",
+  "Title1ThinkTwo": "Gloves are generally made of leather or a very strong synthetic material such as Kevlar. Some also include carbon fibre knuckle protection.",
+  "Title1ThinkThree": "Boots can include reinforcement and plastic caps on the ankle and toe areas. ",
+  "Title1ThinkFour": "Pants are usually leather, corduroy, or Kevlar.",
+  "Title1ThinkFive": "For visual safety a cheap high-visibility jacket or vest will help others see you.",
+  "Title1ThinkSix": "Carry wet weather gear, such as a cape - feeling uncomfortable is stressful.",
+
+  "Title6": "Your Journey",
+  "Title6Instruction": "Check every question on the list to continue.",
+  "Title6AskTitle": "Ask yourself",
+  "Title6ClickOne": "Although it is hot, am I protected?",
+  "Title6ClickTwo": "Have I considered the potential injuries?",
+  "Title6ClickThree": "Will others see me in bad visibility?",
+  "Title6ClickFour": "Have I considered my passengers?",
+  "Title6ClickFive": "Am I wearing the correct clothing for my type of riding and environment?",
+  "Title6ClickSix": "Have I considered everything to ensure a safe journey?",
+
+  "Title6InformationTitle": "Information",
+  "Title6InformationOne": "The road surface is hard and it hurts.",
+  "Title6InformationTwo": "Be seen, be safe.",
+  "Title6InformationThree": "Protect yourself and your passengers as well as you can.",
+  "Title6InformationFour": "It is safer to avoid dangerous riding conditions than to try and deal with the risk once you are in them.",
+
+  "Congratulations": "Congratulations!!",
+  "CongratulationsTextOne": "You have now reached the end of the Clothing Module.",
+  "CongratulationsTextTwo": "To complete and save your progress, please click the button below.",
+  "CompleteAndSave": "Complete and Save",
+  "CompleteAndSaveText": "Your Course Data has been saved.",
+  "SelectAnotherModule": "Select another Module",
+  "SelectAnotherModuleText": "You can now leave or try another module pressing the button below."
+
+}

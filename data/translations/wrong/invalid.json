@@ -1,0 +1,63 @@
+{
+  "Title1": "Maintenance",
+
+  "Title1AskTitle": "Ask yourself",
+  "Title1AskOne": "Is my bike in good order?",
+  "Title1AskTwo": "Do I check it regularly?",
+  "Title1askingOne": "The exposed engine means it is more susceptible to corrosion.",
+  "Title1askingTwo": "Bald, damaged or under inflated tyres will affect your control.",
+  "Title1askingThree": "Ignoring checks will shorten the life of your bike.",
+  "Title1askingFour": "Saving money on maintenance is false economy.",
+  "Title1askingFive": "Ultimately you could endanger yourself and your passengers’ lives.",
+
+  "Title2asking": "Ask yourself "
+  "Title2AskOne": "What should I do?"
+  "Title2askingOne": "Keep the bike manual or download one.",
+  "Title2askingTwo": "Every time you ride make a visual check.",
+  "Title2askingThree": "Check the brakes are working.",
+  "Title2askingFour": "Check tyres are in good condition and pumped up.",
+  "Title2askingFive": "Spokes are not loose.",
+  "Title2askingSix": "Check the lights and indicators are clean and work.",
+
+  "Title1Think": "If your bike is maintained by your employer ",
+  "Title1ThinkOne": "Carry out your daily checks.",
+  "Title1ThinkTwo": "Report any faults immediately.",
+  "Title1ThinkThree": "Be aware when the next service is due.",
+  "Title1ThinkFour": "Look after your bike, it is your source of income.",
+  "Title1ThinkFive": "Use your manual and service your bike regularly.",
+
+  "Title3asking": "Check",
+  "Title3askingOne": "Oil level",
+  "Title3askingTwo": "Brake fluid level and lines. ",
+  "Title3askingThree": "Front and rear brakes separately to make sure they are in working order.",
+  "Title3askingFour": "The battery is fully charged.",
+  "Title3askingFive": "The chain and lubricant.",
+  "Title3askingSix": "Tyres for wear, damage, corrosion and pressure.",
+  "Title3askingSeven": "All cable and attachments.",
+  "Title3askingEight": "Lights and indicators are working.",
+  "Title3askingText": "If you feel you can’t or don’t want to do this yourself find a competent person to do it for you.",
+
+
+  "Title6": "Your Journey",
+  "Title6Instruction": "Check every question on the list to continue.",
+  "Title6AskTitle": "Ask yourself",
+  "Title6ClickOne": "Do I make a visual condition check before my journeys?",
+  "Title6ClickTwo": "Do I care about the condition of my bike?",
+  "Title6ClickThree": "Am I aware that regular servicing will prolong the life of my bike?",
+  "Title6ClickFour": "Will a dangerous bike endanger my passengers too?",
+  "Title6ClickFive": "Do I need to take the risk?",
+  "Title6ClickSix": "Have I considered everything to ensure a safe journey?",
+
+  "Title6InformationTitle": "Information",
+  "Title6InformationOne": "Sand, mud or extreme weather conditions can corrode your bike. Keep it clean.",
+  "Title6InformationTwo": "Just a few cm’s of your tyres touch the road at any given time. Your only contact, so they MUST be in good order.",
+  "Title6InformationThree": "A well-maintained bike can extend life. For your bike, for you, and your passengers.",
+  "Title6InformationFour": "It is safer to avoid dangerous riding conditions than to try and deal with the risk once you are in them. ",
+
+  "Congratulations": "Congratulations!!",
+  "CongratulationsTextOne": "You have now reached the end of the Maintenance Module.",
+  "CongratulationsTextTwo": "To complete and save your progress, please click the button below.",
+  "CompleteAndSave": "Complete and Save",
+  "CompleteAndSaveText": "Your Course Data has been saved.",
+  "SelectAnotherModule": "Select another Module",
+  "SelectAnotherModuleText": "You can now leave or try another module pressing the button below."

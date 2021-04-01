@@ -1,0 +1,65 @@
+{
+  "Title1": "রক্ষণাবেক্ষণ",
+
+  "Title1AskTitle": "নিজেকে জিজ্ঞেস করুন",
+  "Title1AskOne": "আমার সাইকেল কি ভালো আছে?",
+  "Title1AskTwo": "আমি কি এটা নিয়মিত চেক করি?",
+  "Title1askingOne": "উন্মুক্ত ইঞ্জিন ক্ষয়ের সম্ভাবনা বেশি।",
+  "Title1askingTwo": "বল্ড, ক্ষতিগ্রস্ত বা ফুলে যাওয়া টায়ার বাইকে আপনার নিয়ন্ত্রণ প্রভাবিত করবে।",
+  "Title1askingThree": "চেক না করলে আপনার বাইকের জীবন সংক্ষিপ্ত হবে।",
+  "Title1askingFour": "রক্ষণাবেক্ষণের জন্য অর্থ খরচ না করা ভাল অভ্যাস নয়। ",
+  "Title1askingFive": "শেষ পর্যন্ত আপনি নিজেকে ও আপনার যাত্রীদের জীবন বিপন্ন করতে পারেন।",
+
+  "Title2asking": "নিজেকে জিজ্ঞেস করুন ",
+  "Title2AskOne": "আমি কি করবো?",
+  "Title2askingOne": "বাইক ম্যানুয়াল রাখুন বা এটি ডাউনলোড করুন।",
+  "Title2askingTwo": "যখনই রাইড করবেন একটি ভিজুয়াল চেক করুন।",
+  "Title2askingThree": "পরীক্ষা করে দেখুন ব্রেক কাজ করছে কিনা।",
+  "Title2askingFour": "চেক টায়ার ভাল অবস্থায় আছে এবং পাম্প-আপ করা হয়েছে।",
+  "Title2askingFive": "স্পোক আলগা নয়।",
+  "Title2askingSix": "লাইট ও ইন্ডিকেটর পরিষ্কার এবং কাজ করে কিনা পরীক্ষা করুন।",
+
+  "Title1Think": "আপনার বাইক আপনার নিয়োগকর্তা রক্ষণাবেক্ষণ করলে- ",
+  "Title1ThinkOne": "আপনার দৈনন্দিন চেক সম্পন্ন করুন।",
+  "Title1ThinkTwo": "যে কোন ত্রুটি অবিলম্বে রিপোর্ট করুন।",
+  "Title1ThinkThree": "পরবর্তী সার্ভিস কবে হবে সে সম্পর্কে সচেতন হোন।",
+  "Title1ThinkFour": "আপনার বাইকের যত্ন নিন। এটা আপনার আয়ের উৎস।",
+  "Title1ThinkFive": "ম্যানুয়াল ব্যবহার করুন ও আপনার বাইকের নিয়মিত সার্ভিস নিন। ",
+
+  "Title3asking": "চেক",
+  "Title3askingOne": "তেলের স্তর",
+  "Title3askingTwo": "ব্রেক ফ্লুইড লেভেল ও লাইন। ",
+  "Title3askingThree": "ফ্রন্ট ও রিয়ার ব্রেক আলাদা ভাবে দেখুন সেগুলি কাজ করে কিনা।",
+  "Title3askingFour": "ব্যাটারি পুরোপুরি চার্জ করা হয়েছে কিনা।",
+  "Title3askingFive": "চেইন আর লুব্রিকেন্ট।",
+  "Title3askingSix": "টায়াreর ক্ষতি, ক্ষয় ও প্রেশার। ",
+  "Title3askingSeven": "সব কেবল ও সংযুক্তি।",
+  "Title3askingEight": "লাইট ও ইন্ডিকেটর কাজ করছে কিনা।",
+  "Title3askingText": "আপনি যদি মনে করেন যে আপনি এটা করবেন না বা করতে পারবেন না তাহলে আপনি নিজে আপনার কাজের জন্য যোগ্য ব্যক্তি খুঁজে পাবেন।",
+
+
+  "Title6": "আপনার যাত্রা",
+  "Title6Instruction": "Check every question on the list to continue.",
+  "Title6AskTitle": "নিজেকে জিজ্ঞেস করুন",
+  "Title6ClickOne": "আমি কি আমার যাত্রার আগে ভিজুয়াল কন্ডিশন চেক করি?",
+  "Title6ClickTwo": "আমি কি আমার বাইকের অবস্থা নিয়ে চিন্তিত?",
+  "Title6ClickThree": "আমি কি সচেতন যে নিয়মিত সার্ভিসিং আমার বাইকের জীবন দীর্ঘায়িত করবে?",
+  "Title6ClickFour": "বিপজ্জনক বাইক কি আমার যাত্রীদেরও বিপদে ফেলবে?",
+  "Title6ClickFive": "আমাকে কি ঝুঁকি নিতে হবে?",
+  "Title6ClickSix": "নিরাপদ যাত্রা নিশ্চিত করার জন্য আমি কি সবকিছু বিবেচনা করেছি?",
+
+  "Title6InformationTitle": "Information",
+  "Title6InformationOne": "বালি, কাদা বা চরম আবহাওয়া আপনার সাইকেল ক্ষয় করতে পারে। এটা পরিষ্কার রাখুন।",
+  "Title6InformationTwo": "একটি নির্দিষ্ট সময়ে টায়ার মাত্র কয়েক সেন্টিমিটার রাস্তা স্পর্শ করে। এটা আপনার একমাত্র যোগাযোগ তাই তাদের অবশ্যই ভালো অবস্থায় রাখতে হবে।",
+  "Title6InformationThree": "উত্তম রক্ষণাবেক্ষণ করা বাইকের জীবনকাল বেশী হয়। আপনার বাইকের জন্য, আপনার জন্য ও আপনার যাত্রীদের জন্য।",
+  "Title6InformationFour": "ঝুঁকি ও বিপজ্জনক রাইডিং এর মধ্যে পড়লে বিপজ্জনক রাইডিং অবস্থা এড়িয়ে চলা নিরাপদ। ",
+
+  "Congratulations": "Congratulations!!",
+  "CongratulationsTextOne": "You have now reached the end of the Maintenance Module.",
+  "CongratulationsTextTwo": "To complete and save your progress, please click the button below.",
+  "CompleteAndSave": "Complete and Save",
+  "CompleteAndSaveText": "Your Course Data has been saved.",
+  "SelectAnotherModule": "Select another Module",
+  "SelectAnotherModuleText": "You can now leave or try another module pressing the button below."
+
+}

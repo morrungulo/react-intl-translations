@@ -1,0 +1,50 @@
+{
+  "Title1": "Helmets",
+  "Title1AskTitle": "Ask yourself",
+  "Title1AskOne": "Do I always wear head protection, every time I ride?",
+  "Title1AskTwo": "Am I happy that my helmet will protect me?",
+  "Title1AskThree": "Do I also have the interest of my passengers’ safety?",
+  "Title1AskFour": "Do I like taking the risk, especially in warm weather?",
+
+  "Title1askingOne": "In the event of a motorcycle crash, injuries to the head and neck are the main cause of death.",
+  "Title1askingTwo": "If you do not wear a helmet you run a much higher risk of sustaining a head or traumatic brain injury.",
+  "Title1askingThree": "If your head hits an object, your head’s forward motion is stopped, but your brain continues to move forward until it strikes the inside of your skull. It then rebounds, striking the opposite side of the skull. This can be fatal.",
+  "Title1askingFour": "If you do not wear a helmet you are at a much higher risk of sustaining a head injury and dying.",
+  "Title1askingFive": "These risks equally apply to your passengers.",
+
+  "Title2askingOne": "Helmets create an additional layer for the head so protect you from some of the more severe forms of traumatic brain injury.",
+  "Title2askingTwo": "The soft material inside in the helmet absorbs some of the impact and therefore your head comes to a halt more slowly. ",
+  "Title2askingThree": "It spreads the forces of the impact over a greater surface area so that they are not concentrated on particular areas of the skull. ",
+  "Title2askingFour": "It acts as a barrier between your head and the object",
+  "Title2askingFive": "Wearing a full-face helmet is the single most effective way of reducing head injuries and fatalities resulting from motorcycle crashes.",
+
+  "Title1Think": "Types of Helmet",
+  "Title1ThinkOne": "Full-face helmets offer facial protection in addition to impact protection. A chin bar extends outwards, wrapping around the chin and jaw area. ",
+  "Title1ThinkTwo": "Open-face helmets with their hard outer shell and crushable inner liner give little protection from impact.",
+  "Title1ThinkThree": "Half-head helmets are also not recommended. They have an hard outer shell and a crushable inner liner.They are rarely equipped with visors but may have ear flaps attached to the retention system.",
+  "Title1ThinkFour": "Some countries have minimum safety standards.",
+  "Title1ThinkFive": "Research shows that a brighter colour is preferable.",
+
+  "Title6": "Your Journey",
+  "Title6Instruction": "Think about the following statements",
+  "Title6AskTitle": "Ask yourself",
+  "Title6ClickOne": "I have made wearing a helmet a habit, whatever the journey.",
+  "Title6ClickTwo": "I make sure all passengers are protected too.",
+  "Title6ClickThree": "I wear my helmet with the strap fastened.",
+  "Title6ClickFour": "There are no scratches, cracks or stickers on my helmet.",
+  "Title6ClickFive": "Have I considered everything to ensure a safe journey?",
+
+  "Title6InformationTitle": "Information",
+  "Title6InformationOne": "Helmets won’t prevent a crash but will reduce the chance of a head or brain injury if you are involved in one.",
+  "Title6InformationTwo": "Riders and passengers who do not wear helmets are at a much higher risk dying from their injuries. ",
+  "Title6InformationThree": "If your passenger is killed, how would that make you feel?",
+
+  "Congratulations": "Congratulations!!",
+  "CongratulationsTextOne": "You have now reached the end of the Helmets Module.",
+  "CongratulationsTextTwo": "To complete and save your progress, please click the button below.",
+  "CompleteAndSave": "Complete and Save",
+  "CompleteAndSaveText": "Your Course Data has been saved.",
+  "SelectAnotherModule": "Select another Module",
+  "SelectAnotherModuleText": "You can now leave or try another module pressing the button below."
+
+}

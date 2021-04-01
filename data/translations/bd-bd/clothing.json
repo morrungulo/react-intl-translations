@@ -1,0 +1,51 @@
+{
+  "Title1": "Clothing",
+  "Title1AskTitle": "নিজেকে জিজ্ঞেস করুন",
+  "Title1AskOne": "রাইডের সময় কি আমি সুরক্ষিত?",
+  "Title1AskTwo": "পড়ে গেলে কি ঘটবে?",
+  "Title1askingOne": "রাস্তা খুব খারাপ ও কষ্টদায়ক।",
+  "Title1askingTwo": "সামান্য ঘটনাতেও ত্বকের ক্ষতি হতে পারে।",
+  "Title1askingThree": "আবহাওয়া বা অন্ধকারে দৃশ্যমানতা কম থাকায় অন্যরা আপনাকে নাও দেখতে পারে।",
+  "Title1askingFour": "উন্মুক্ত ত্বক আঘাতের জন্য বেশী ঝুঁকিপূর্ণ।",
+
+  "Title2asking": "নিম্নলিখিত বিষয়গুলি বিবেচনা করুন",
+  "Title2askingOne": "গ্লাভস আপনাকে রোদ, বাতাস ও ঠাণ্ডা থেকে রক্ষা করে এবং একই সাথে কোন দুর্ঘটনায় ঘর্ষণ থেকে রক্ষা করে। ",
+  "Title2askingTwo": "জ্যাকেট, প্যান্ট ও অনুরূপ পোশাক উপাদান থেকে রাইডারের শরীর রক্ষা করে।",
+  "Title2askingThree": "পোশাক পরা থাকলে সড়ক দুর্ঘটনায় আঘাতের তীব্রতা কমিয়ে দেবে।",
+  "Title2askingFour": "নিয়মিত মোটরসাইকেল চালকদের জন্য প্রস্তুতক্ৃত বুট গোড়ালির উপরে চলে আসতে পারে এবং মাটিতে শক্ত গ্রিপের জন্য এর বিল্ট-ইন গোড়ালি সুরক্ষা ও অয়েল প্রতিরোধী সোল থাকে। ",
+  "Title2askingFive": "ফ্লুরোসেন্ট রঙ যেমন নিয়ন হলুদ, সবুজ, কমলা, এমনকি সাদা রঙ পরলে তা আপনার দৃশ্যমানতার সম্ভাবনা বাড়িয়ে দেবে।",
+  "Title2askingSix": "যাত্রীদের কথা ভুলে যাবেন না - তারাও কি সুরক্ষিত?",
+
+  "Title1Think": "আপনার সামর্থ্যের সেরাটা বেছে নিন।",
+  "Title1ThinkOne": "জ্যাকেটের প্যাডিং এর কারণে কনুই, মেরুদণ্ড ও কাঁধ সুরক্ষিত থাকে।",
+  "Title1ThinkTwo": "গ্লাভস সাধারণত চামড়া বা কেভলার দিয়ে তৈরি এবং কিছু কিছুতে কার্বন ফাইবার সুরক্ষা রয়েছে।",
+  "Title1ThinkThree": "বুট পরলে গোড়ালির প্লাস্টিক ক্যাপ ও পা সুরক্ষিত থাকে। ",
+  "Title1ThinkFour": "প্যান্ট সাধারণত চামড়া, কর্ডুরয়, বা কেভলার হয়।",
+  "Title1ThinkFive": "ভিজুয়াল নিরাপত্তার জন্য, সস্তা উচ্চদৃশ্যমানতা জ্যাকেট বা ভেস্ট পরলে অন্যরা আপনাকে সহজে দেখতে পাবে।",
+  "Title1ThinkSix": "ভেজা আবহাওয়ার সরঞ্জাম যেমন কেপ সাথে নিন - অস্বস্তি বোধ করলে ধরে নিবেন মানসিক চাপ।",
+
+  "Title6": "আপনার যাত্রা",
+  "Title6Instruction": "Check every question on the list to continue.",
+  "Title6AskTitle": "নিজেকে জিজ্ঞেস করুন",
+  "Title6ClickOne": "যদিও গরম, আমি কি সুরক্ষিত?",
+  "Title6ClickTwo": "আমি কি সম্ভাব্য আঘাতের কথা বিবেচনা করেছি?",
+  "Title6ClickThree": "অন্যরা কি আমাকে দুর্বল দৃশ্যমানতায় দেখতে পাবে?",
+  "Title6ClickFour": "আমি কি আমার যাত্রীদের কথা বিবেচনা করেছি?",
+  "Title6ClickFive": "আমি কি এই ধরনের রাইডিং ও পরিবেশের জন্য সঠিক পোশাক পরেছি?",
+  "Title6ClickSix": "নিরাপদ যাত্রা নিশ্চিত করতে আমি কি সব কিছু বিবেচনা করেছি?",
+
+  "Title6InformationTitle": "Information",
+  "Title6InformationOne": "রাস্তা শক্ত এবং চলতে ব্যথা করে ",
+  "Title6InformationTwo": "আপনাকে দেখতে দিন ও নিরাপদে থাকুন ",
+  "Title6InformationThree": "নিজেকে ও যাত্রীদেরকে যতটা সম্ভব রক্ষা করুন",
+  "Title6InformationFour": "ঝুঁকি ও বিপজ্জনক রাইডিং এর মধ্যে পড়লে বিপদজনক রাইডিং অবস্থা এড়িয়ে চলা নিরাপদ।",
+
+  "Congratulations": "Congratulations!!",
+  "CongratulationsTextOne": "You have now reached the end of the Clothing Module.",
+  "CongratulationsTextTwo": "To complete and save your progress, please click the button below.",
+  "CompleteAndSave": "Complete and Save",
+  "CompleteAndSaveText": "Your Course Data has been saved.",
+  "SelectAnotherModule": "Select another Module",
+  "SelectAnotherModuleText": "You can now leave or try another module pressing the button below."
+
+}
