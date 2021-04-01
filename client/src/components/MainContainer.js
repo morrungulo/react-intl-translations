@@ -17,14 +17,11 @@ const MainContainer = () => {
 
   return (
     <div className="section">
-      {/* <div className="container"> */}
-
       <div className="row">
         <div className="col s12 m8 l6">
           <FileUploader onUpload={onUpload} />
         </div>
       </div>
-
       <div className="row">
         {entries.length > 0 &&
           entries.map(entry => (
@@ -33,8 +30,6 @@ const MainContainer = () => {
             </div>
           ))}
       </div>
-
-      {/* </div> */}
     </div >
   );
 }

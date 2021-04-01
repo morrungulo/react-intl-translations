@@ -1,6 +1,6 @@
-import { useEffect, useRef, useState } from 'react'
+import { useState } from 'react'
 import { JsonEditor } from 'react-json-edit'
-import M from 'materialize-css'
+import Blob from 'blob'
 
 const TranslationEntry = ({ entry, handleDelete }) => {
   const [value, setValue] = useState(entry.data);
@@ -10,9 +10,15 @@ const TranslationEntry = ({ entry, handleDelete }) => {
     setValue(changes)
   }
 
-  const handleSave = (e) => {
-    e.preventDefault()
-    console.log('save here', name, id)
+  const handleSave = async (e) => {
+    const json = JSON.stringify(value)
+    const blob = new Blob([json], { type: 'application/json' })
+    const link = document.createElement('a')
+    link.href = await URL.createObjectURL(blob)
+    link.download = name
+    document.body.appendChild(link)
+    link.click();
+    document.body.removeChild(link)
   }
 
   return (
@@ -36,7 +42,7 @@ const TranslationEntry = ({ entry, handleDelete }) => {
           </div>
         </div>
       </nav>
-      <JsonEditor value={value} propagateChanges={propagateChanges} />
+      <JsonEditor tableLike={true} value={value} propagateChanges={propagateChanges} />
     </div>
   );
 }
