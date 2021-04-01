@@ -15,6 +15,7 @@ const useJsonFileReader = (onloadhook = noop) => {
       setError("Please select a valid json file.")
       return
     }
+    setError(null)
 
     const reader = new FileReader()
     reader.onloadstart = () => {

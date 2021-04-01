@@ -11,6 +11,7 @@ const TranslationEntry = ({ entry, handleDelete }) => {
   }
 
   const handleSave = async (e) => {
+    e.preventDefault()
     const json = JSON.stringify(value)
     const blob = new Blob([json], { type: 'application/json' })
     const link = document.createElement('a')

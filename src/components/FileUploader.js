@@ -18,7 +18,7 @@ const FileUploader = ({ onUpload }) => {
         <input type="file" onChange={handleFileInput} />
       </div>
       <div className="file-path-wrapper">
-        <input className="file-path validate" type="text" placeholder="Upload one or more files" multiple />
+        <input className="file-path validate" type="text" placeholder="Upload one file" multiple />
       </div>
       {error && <div className="red-text lighten-1">{error}</div>}
     </div>
