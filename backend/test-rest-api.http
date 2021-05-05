@@ -1,0 +1,66 @@
+####
+# 404
+
+GET http://localhost:3001/xpto
+
+####
+# 500
+
+PUT http://localhost:3001/
+Content-Type: application/json
+
+{
+  "file": "en-gb/clothing.json",
+  "data": {
+    "test": "this is a test"
+  }
+}
+
+####
+
+GET http://localhost:3001
+
+####
+
+GET http://localhost:3001/load?name=/wrong/invalid.json
+
+####
+GET http://localhost:3001/load?name=/en-gb/clothing.json
+
+####
+GET http://localhost:3001/load?name=/bd-bd/helmets.json
+
+
+####
+
+POST http://localhost:3001/save
+Content-Type: application/json
+
+{
+  "name": "/wrong/overwrit.json",
+  "data": {
+    "Title1": "Helmets111",
+    "Title1AskTitle": "Ask yourself",
+    "Title1AskOne": "Do I always wear head protection, every time I ride?",
+    "Title1AskTwo": "Am I happy that my helmet will protect me?",
+    "Title1AskThree": "Do I also have the interest of my passengers’ safety?",
+    "Title1AskFour": "Do I like taking the risk, especially in warm weather?"
+  }
+}
+
+####
+
+POST http://localhost:3001/save
+Content-Type: application/json
+
+{
+  "name": "/wrong/overwrite.json",
+  "data": {
+    "Title1": "Helmets111",
+    "Title1AskTitle": "Ask yourself",
+    "Title1AskOne": "Do I always wear head protection, every time I ride?",
+    "Title1AskTwo": "Am I happy that my helmet will protect me?",
+    "Title1AskThree": "Do I also have the interest of my passengers’ safety?",
+    "Title1AskFour": "Do I like taking the risk, especially in warm weather?"
+  }
+}

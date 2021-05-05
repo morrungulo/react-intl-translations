@@ -13,3 +13,4 @@ ENV PATH=${REPO}${PATH:+:${PATH}}
 
 # expose port
 EXPOSE 3000
+EXPOSE 3001
