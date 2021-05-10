@@ -1,5 +1,6 @@
 const { readdir, stat, readFile, writeFile } = require('fs/promises')
-const { resolve, join } = require('path')
+const { resolve, join, basename } = require('path');
+const { v4: uuidv4 } = require('uuid')
 
 /**
  * Recursively walk the directory tree and return the filenames and directories.
@@ -13,19 +14,21 @@ const readFolder = async (dir, prefix) => {
     if (dirent.isSymbolicLink()) {
       return  // skip links
     }
+    const res = resolve(dir, dirent.name);
     if (dirent.isDirectory()) {
-      const res = resolve(dir, dirent.name);
       return readFolder(res, prefix)  // recursive
     }
-    return { type: 'f', name: dirent.name }
+    const name = res.replace(prefix, '')
+    return { type: 'f', id: uuidv4(), name, label: basename(name) }
   }));
-  return { type: 'd', name: dir.replace(prefix, ''), contents }
+  const name = dir.replace(prefix, '')
+  return { type: 'd', id: uuidv4(), name, label: basename(name), contents }
 }
 
 module.exports.getFiles = async (req, res, next) => {
   try {
-    const data = await readFolder(process.env.ROOT_FOLDER, resolve(process.env.ROOT_FOLDER))
-    res.status(200).json({ data: data.contents })
+    const data = await readFolder(resolve(process.env.ROOT_FOLDER), resolve(process.env.ROOT_FOLDER))
+    res.status(200).json({ listing: data.contents })
   } catch (e) {
     return next(e)
   }
@@ -44,14 +47,8 @@ const isValidAndExists = async (filename) => {
   }
 }
 
-
 module.exports.loadFile = async (req, res, next) => {
   const { name } = req.query
-  // if (!name) {
-  //   const error = new Error('missing/invalid query field')
-  //   error.status = 400
-  //   return next(error)
-  // }
 
   // file exists?
   const fullname = join(process.env.ROOT_FOLDER, name)
